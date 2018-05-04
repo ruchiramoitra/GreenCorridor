@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_number": "750215321999",
+    "firebase_url": "https://traffic-app-acace.firebaseio.com",
+    "project_id": "traffic-app-acace",
+    "storage_bucket": "traffic-app-acace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750215321999:android:1ebca2233e6ae1cd",
+        "android_client_info": {
+          "package_name": "com.example.ujan.trafficapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750215321999-v03n26248quompu40kl29knek538o3c9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "750215321999-okoodcn1sppodtk8r2fec9k151jsicrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsDGaUl-4OQGq_8SmM5wXyGVz8Biup5lw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750215321999-v03n26248quompu40kl29knek538o3c9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

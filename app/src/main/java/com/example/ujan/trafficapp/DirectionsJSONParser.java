@@ -1,4 +1,4 @@
-package com.example.ujan.trafficapp;
+
 
 import com.google.android.gms.maps.model.LatLng;
 

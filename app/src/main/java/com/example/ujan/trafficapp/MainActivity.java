@@ -1,4 +1,4 @@
-package com.example.ujan.trafficapp;
+
 
 import android.app.NotificationManager;
 import android.app.PendingIntent;
@@ -66,7 +66,7 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
     LatLng cdest;
     static LatLng destination;
     static LatLng current;
-    String TAG="Ujan";
+    String TAG="Ruchira";
     String traffic_id="1";
     static double current_lat;
     static double current_long;
@@ -118,8 +118,8 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
 
                     } else {
                         AlertDialog.Builder builder = new AlertDialog.Builder(MainActivity.this);
-                        builder.setMessage("Login Failed")
-                                .setNegativeButton("Retry", null)
+                        builder.setMessage("No ambulance nearing")
+                                .setNegativeButton("Continue", null)
                                 .create()
                                 .show();
                     }
